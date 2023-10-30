@@ -3,7 +3,7 @@ import os
 
 # AI4Shipwrecks helper script
 # University of Michigan, Field Robotics Group
-# Written by Anja Sheppard, 2022
+# Written by Anja Sheppard, 2023
 
 # generate the square images for training/testing baselines
 
